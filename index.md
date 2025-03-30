@@ -4,27 +4,26 @@ layout: default
 
  _Personal project directory and news_.
 
-[1. Android native  - Genus and species Application](./another-page.html).
-[2. Matilda Chess  - Playing chess across the internet with a robotic !rm](./another-page.html).
-[3. All Sky Pi  - An all sky cam with PI5, object detection with temp/humidity pcb !rm](./another-page.html).
-[4. Smart Charging system  - An outomated submarine battery chargin system !rm](./another-page.html).
+[1. Android native  - Genus and species Application](./Android_Native.html).
+[2. Matilda Chess  - Playing chess across the internet with a robotic !rm](./Matilda_Chess.html).
+[3. All Sky Pi  - An all sky cam with PI5, object detection with temp/humidity pcb !rm](./All_Sky_Pi5.html).
+[4. Smart Charging system  - An outomated submarine battery chargin system !rm](./Smart_Charger.html).
 
+Click on the any of the above project directory to provide feedback, explore, learn and use for your self!
 
-There should be whitespace between paragraphs.
+Please feel free to contact me for project specific questions on hughmathys6@gmail.com
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# News - Genus and species Application
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## News - Matilda Chess
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### News - All Sky Pi
 
 ```js
 // Javascript code with syntax highlighting.
