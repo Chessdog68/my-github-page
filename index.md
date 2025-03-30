@@ -21,18 +21,16 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # News - Matilda Chess
-
+<img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/Capture.JPG" alt="Capture" width="250" />
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # News - Matilda Chess
-
-<img src="https://github.com/Chessdog68/my-github-page/blob/main/assets/images/Robotic%20arm2.PNG" alt="Robotic Arm" width="300" />
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 
 ## News - Matilda Chess
-<img src="./assets/images/night_sky.png" alt="Night Sky" width="150" />
+<img src="./assets/images/night_sky.png" alt="Night Sky" width="250" />
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
