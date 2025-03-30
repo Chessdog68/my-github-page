@@ -25,12 +25,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # News - Matilda Chess
-
+<img src="https://github.com/Chessdog68/my-github-page/blob/main/assets/images/Robotic%20arm2.PNG" alt="Robotic Arm" width="100" />
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 
 ## News - Matilda Chess
-![Night Sky](./assets/images/night_sky.png)
+<img src="./assets/images/night_sky.png" alt="Night Sky" width="150" />
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
