@@ -2,12 +2,15 @@
 layout: default
 ---
 
- _Personal project directory and news_.
+_Personal project directory and news_.
 
-[1. Android native  - Genus and species Application](./Android_Native.html).
-[2. Matilda Chess  - Playing chess across the internet with a robotic !rm](./Matilda_Chess.html).
-[3. All Sky Pi  - An all sky cam with PI5, object detection with temp/humidity pcb !rm](./All_Sky_Pi5.html).
-[4. Smart Charging system  - An outomated submarine battery chargin system !rm](./Smart_Charger.html).
+1. [Android native - Genus and species Application](./Android_Native.html)
+
+2. [Matilda Chess - Playing chess across the internet with a robotic arm](./Matilda_Chess.html)
+
+3. [All Sky Pi - An all sky cam with PI5, object detection with temp/humidity pcb](./All_Sky_Pi5.html)
+
+4. [Smart Charging system - An automated submarine battery charging system](./Smart_Charger.html)
 
 Click on the any of the above project directory to provide feedback, explore, learn and use for your self!
 
