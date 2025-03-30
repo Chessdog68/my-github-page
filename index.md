@@ -4,7 +4,11 @@ layout: default
 
  _Personal project directory and news_.
 
-[Android native  - Genus and species Application](./another-page.html).
+[1. Android native  - Genus and species Application](./another-page.html).
+[2. Matilda Chess  - Playing chess across the internet with a robotic !rm](./another-page.html).
+[3. All Sky Pi  - An all sky cam with PI5, object detection with temp/humidity pcb !rm](./another-page.html).
+[4. Smart Charging system  - An outomated submarine battery chargin system !rm](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 
