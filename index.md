@@ -25,7 +25,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # News - Matilda Chess
-<img src="https://github.com/Chessdog68/my-github-page/blob/main/assets/images/Robotic%20arm2.PNG" alt="Robotic Arm" width="100" />
+
+<img src="https://github.com/Chessdog68/my-github-page/blob/main/assets/images/Robotic%20arm2.PNG" alt="Robotic Arm" width="300" />
+
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 
