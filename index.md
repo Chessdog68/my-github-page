@@ -30,6 +30,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 # News - Smart Charging system
+<img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/smartcharger_discharger.png" alt="Smart Charger Discharger" width="250" />
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
