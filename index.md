@@ -4,7 +4,7 @@ layout: default
 
 _Personal project directory and news_.
 
-1. [Android native - Genus and species Application](./Android_Native_App.md)
+1. [Android native - Genus and species Application](./Android_Native_App.html)
 
 2. [Matilda Chess - Playing chess across the internet with a robotic arm](./Matilda_Chess.html)
 
