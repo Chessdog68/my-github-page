@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+ _Personal project directory and news_.
 
-[Link to another page](./another-page.html).
+[Android native  - Genus and species Application](./another-page.html).
 
 There should be whitespace between paragraphs.
 
