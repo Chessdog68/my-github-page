@@ -17,7 +17,7 @@ Click on the any of the above project directory to provide feedback, explore, le
 Please get contact me for project specific questions -> hughmathys6@gmail.com
 
 # News - Genus and species Application
-
+<img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/flower_scotts.png" alt="Flower Scotts" width="250" />
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # News - Matilda Chess
