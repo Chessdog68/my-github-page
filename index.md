@@ -20,6 +20,13 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+# News - Matilda Chess
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+
+
+
 ## News - Matilda Chess
 
 > This is a blockquote following a header.
