@@ -30,7 +30,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 ## News - Matilda Chess
-![Night Sky](C:\Users\hugh_mat\Desktop\futuer\programming prac\Chess_of_course\my-github-page\assets\images\night_sky.png)
+![Night Sky](./assets/images/night_sky.png)
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
