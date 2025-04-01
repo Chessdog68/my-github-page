@@ -20,6 +20,11 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 <img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/flower_scotts.png" alt="Flower Scotts" width="250" />
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+<video width="320" height="240" controls>
+  <source src="https://github.com/hughsLab/my-github-page/raw/refs/heads/main/Ship_fun.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # News - Matilda Chess
 <img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/Capture.JPG" alt="Capture" width="250" />
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
