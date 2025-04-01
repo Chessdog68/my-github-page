@@ -21,7 +21,7 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/hughsLab/my-github-page/raw/refs/heads/main/Ship_fun.mp4" type="video/mp4">
+  <source src="<video controls src="https://github.com/hughsLab/my-github-page/raw/refs/heads/main/Ship_fun.mp4" title="Title"></video>" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
