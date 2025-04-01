@@ -10,6 +10,8 @@ _Personal project directory and news_.
 
 3. [All Sky Pi - An all sky cam with PI5, object detection with temp/humidity pcb](./All_Sky_Pi5.html)
 
+4. [Smart Charging system - An automated submarine battery charging system](./YOLO_tracking.html)
+
 4. [Smart Charging system - An automated submarine battery charging system](./Smart_Charger.html)
 
 Click on the any of the above project directory to provide feedback, explore, learn and use for your self!
@@ -20,10 +22,7 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 <img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/flower_scotts.png" alt="Flower Scotts" width="250" />
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-<video width="320" height="240" controls>
-  <source src="" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 # News - Matilda Chess
 <img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/Capture.JPG" alt="Capture" width="250" />
