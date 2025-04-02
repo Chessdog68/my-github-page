@@ -10,7 +10,7 @@ _Personal project directory and news_.
 
 3. [All Sky Pi - An all sky cam with PI5, object detection with temp/humidity pcb](./All_Sky_Pi5.html)
 
-4. [Smart Charging system - An automated submarine battery charging system](./YOLO_tracking.html)
+4. [YOLO & OpenCV Object Detection - During the Denman Voyage (RSV Nuyina) - Progression](./YOLO_tracking.html)
 
 4. [Smart Charging system - An automated submarine battery charging system](./Smart_Charger.html)
 
