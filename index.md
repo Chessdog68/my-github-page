@@ -19,20 +19,31 @@ Click on the any of the above project directory to provide feedback, explore, le
 Please get contact me for project specific questions -> hughmathys6@gmail.com
 
 # Progress - Android native - Genus and species Application
-<img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/flower_scotts.png" alt="Flower Scotts" width="250" />
+<img src="https://github.com/user-attachments/assets/b0cd27e6-b08c-46fa-884b-1eb9949c0c90" width="250" />
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 
 
 # Progress - Matilda Chess - Playing chess across the internet with a robotic arm
-<img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/Capture.JPG" alt="Capture" width="250" />
+<img src="https://github.com/user-attachments/assets/9093c39c-3aeb-4760-bead-17b0a86b5c7f" width="250">
+
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # Progress - All Sky Pi - An all sky cam with PI5, object detection with temp/humidity pcb
+
+1. All items have been procured.
+2. A repository has been solected based on hardware requiments and amended for sensor.
+3. Sensor has been designed and orded from JLPCB!
+4. Test network and upload images!
+5. Creat remote network capability.
 <img src="./assets/images/night_sky.png" alt="Night Sky" width="250" />
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 
 # Progress - YOLO & OpenCV Object Detection - During the Denman Voyage (RSV Nuyina)
+
+
+
+
 
 
 # Progress - Smart Charging system
@@ -40,14 +51,38 @@ This Project is complete.
 Please find the repository 
 <!DOCTYPE html>
 <html>
+<head>
+    <title>My GitHub Pages</title>
+    <style>
+        .btn-github {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #333;
+            color: white;
+            text-decoration: none;
+            border: none;
+            display: inline-block;
+        }
 
+        .btn-github:hover {
+            background-color: #555;
+        }
+
+        .icon {
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
     <!-- GitHub link button -->
-    <a href="https://github.com/hughsLab/Linux-GUI-Driver-and-Server-Socket" target="_blank">
-        <button style="padding: 10px 20px; font-size: 16px; cursor: pointer;">Visit My GitHub Repository</button>
+    <a href="https://github.com/hughsLab/Linux-GUI-Driver-and-Server-Socket" class="btn btn-github">
+        <span class="icon"></span>Visit My GitHub Repository
     </a>
 </body>
 </html>
-<img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/smartcharger_discharger.png" alt="Smart Charger Discharger" width="250" />
+
+<img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/smartcharger_discharger.png" alt="Smart Charger Discharger" width="350" />
 
 
 
