@@ -2,21 +2,17 @@
 layout: default
 ---
 
-## All Sky Pi - Progression
-
-![image](https://github.com/user-attachments/assets/7c9247cb-81ff-4be3-af64-e61accaadfd1)
-
-# Allsky Camera for PI5 amended for SHT31 Temperature and humdidty sensor 
-This is the source code and primary credit for SW:
- [on Instructables](http://www.instructables.com/id/Wireless-All-Sky-Camera/).
-
-
+## Project status Quo
 <!-- =============================================================================== --> 
-## Requirements
 
 I am building an all-sky camera using a Raspberry Pi 5 along with a custom-designed Altium PCB. Currently, the components exist in two separate repositories, but I will be combining them. once i have the network up and running from prototype!
 
-## Requirements
+1. All items have been procured.
+2. A repository has been solected based on hardware requiments and amended for sensor.
+3. Sensor has ben designed and orded from JLPCB!
+![image](https://github.com/user-attachments/assets/7c9247cb-81ff-4be3-af64-e61accaadfd1)
+
+## Requirements for Allsky Camera for PI5 amended for SHT31 Temperature and humdidty sensor 
 
 In order to run the Allsky software, you will need:
 
@@ -38,6 +34,8 @@ In order to run the Allsky software, you will need:
             * Waveshare imx219-d160 (IMX290 sensor)
             * OneInchEye IMX283 (IMX283 sensor)
             * IMX290 60.00 fps
+            This is the source code and primary credit for SW:
+ [on Instructables](http://www.instructables.com/id/Wireless-All-Sky-Camera/).
 
 ### Humidity and Temperature Sensor - SHT31
 
