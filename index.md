@@ -22,13 +22,75 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 <img src="https://github.com/user-attachments/assets/b0cd27e6-b08c-46fa-884b-1eb9949c0c90" width="250" />
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Pages</title>
+    <style>
+        .btn-github {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #333;
+            color: white;
+            text-decoration: none;
+            border: none;
+            display: inline-block;
+        }
 
+        .btn-github:hover {
+            background-color: #555;
+        }
+
+        .icon {
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <!-- GitHub link button -->
+    <a href="https://github.com/hughsLab/plant-classification" class="btn btn-github">
+        <span class="icon"></span>Visit My GitHub Repository
+    </a>
+</body>
+</html>
 
 # Progress - Matilda Chess - Playing chess across the internet with a robotic arm
 <img src="https://github.com/user-attachments/assets/9093c39c-3aeb-4760-bead-17b0a86b5c7f" width="250">
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Pages</title>
+    <style>
+        .btn-github {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #333;
+            color: white;
+            text-decoration: none;
+            border: none;
+            display: inline-block;
+        }
 
+        .btn-github:hover {
+            background-color: #555;
+        }
+
+        .icon {
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <!-- GitHub link button -->
+    <a href="https://github.com/hughsLab/Matilda---Robotic-Chess-accross-the-internet-" class="btn btn-github">
+        <span class="icon"></span>Visit My GitHub Repository
+    </a>
+</body>
+</html>
 # Progress - All Sky Pi - An all sky cam with PI5, object detection with temp/humidity pcb
 
 1. All items have been procured.
@@ -38,9 +100,73 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 5. Creat remote network capability.
 <img src="./assets/images/night_sky.png" alt="Night Sky" width="250" />
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Pages</title>
+    <style>
+        .btn-github {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #333;
+            color: white;
+            text-decoration: none;
+            border: none;
+            display: inline-block;
+        }
 
+        .btn-github:hover {
+            background-color: #555;
+        }
+
+        .icon {
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <!-- GitHub link button -->
+    <a href="https://github.com/hughsLab/All-Sky-pi5-with-SHT31-Sensor" class="btn btn-github">
+        <span class="icon"></span>Visit My GitHub Repository
+    </a>
+</body>
+</html>
 # Progress - YOLO & OpenCV Object Detection - During the Denman Voyage (RSV Nuyina)
 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Pages</title>
+    <style>
+        .btn-github {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #333;
+            color: white;
+            text-decoration: none;
+            border: none;
+            display: inline-block;
+        }
+
+        .btn-github:hover {
+            background-color: #555;
+        }
+
+        .icon {
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <!-- GitHub link button -->
+    <a href="https://github.com/hughsLab/Denman-Voyage-YOLO-Detection" class="btn btn-github">
+        <span class="icon"></span>Visit My GitHub Repository
+    </a>
+</body>
+</html>
 
 
 
@@ -86,10 +212,10 @@ Please find the repository
 
 
 
+
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-## Page Written by: Hugh Mathys
-## Last updated - 4/4/2025
+ Page Written by: Hugh Mathys
+ Last updated - 4/4/2025
 
 
-The final element.
-```
