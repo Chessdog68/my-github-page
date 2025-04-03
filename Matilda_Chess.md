@@ -7,6 +7,7 @@ layout: default
 This project incorporates mechatronic control, through a Pi5 and six servos, as seen below by the high-level schematic.
 Internetworking will allow the remote player to make moves against the robot. This will be displayed by a Pi vision camera.
 The chess engine will utilize the chess bots from chess.com (Stockfish) and object detection (YOLO) to 'see' pieces.
+
 The motivation of this project is to one day play chess with my daughter Florence remotely. Roald Dahl's Matilda
 inspired me as a young child, in an attempt I hope to do the same.
 
@@ -14,6 +15,20 @@ inspired me as a young child, in an attempt I hope to do the same.
 The files attached are the starting point for this project. 
 Code and STL files, staye tuned... 
 
+# progression list to date.
+1. All items have been procured.
+2. The robotic arm has been selected and alterd from the original repository. 
+3. Established a 'here and there' netword using my home PC and a VM. This is to establish a internetworking connection.
+4. Print the 3D printed arm and test the proto type.
+
+# Proto typing
+A modern frame work that may work well for data and internetworking is Flask. 
+The diagram below, could be a great starting framework for application!
+![alt text](image-1.png)
+The basic highlevel schematic below will be a starting point for prototyping. 
+![alt text](image.png)
+
+# 
 ![Capture](https://github.com/user-attachments/assets/e8dce431-166a-4af0-a0d3-019e8ef835c1)
 
 
