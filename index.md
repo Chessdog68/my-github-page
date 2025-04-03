@@ -40,11 +40,6 @@ This Project is complete.
 Please find the repository 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>My GitHub Pages</title>
-</head>
-<body>
-    <h1>Welcome to My GitHub Pages</h1>
 
     <!-- GitHub link button -->
     <a href="https://github.com/hughsLab/Linux-GUI-Driver-and-Server-Socket" target="_blank">
