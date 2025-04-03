@@ -27,6 +27,6 @@ model = YOLO("yolo11n.pt")
 <img src="https://raw.githubusercontent.com/hughsLab/my-github-page/main/assets/film/ship_fun.gif" alt="Ship Fun GIF" width="640" height="480" />
 
 
-_All sky pi5_
+_Completed project_
 
 [back](./)
