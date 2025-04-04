@@ -56,7 +56,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 # Progress - Matilda Chess - Playing chess across the internet with a robotic arm
 <img src="https://github.com/user-attachments/assets/9093c39c-3aeb-4760-bead-17b0a86b5c7f" width="250">
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+1. All items have been procured.
+2. A repository has been solected based on hardware requiments and amended for sensor.
+3. Sensor has been designed and orded from JLPCB!
+4. Test network and upload images!
+5. Creat remote network capability.
 <html>
 <head>
     <title>My GitHub Pages</title>
@@ -132,8 +136,16 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 </html>
 # Progress - YOLO & OpenCV Object Detection - During the Denman Voyage (RSV Nuyina)
 
+This Project is complete!
+Please find the repository below and view the page above.
 
-<!DOCTYPE html>
+I hope to combine this project with the Allsky camera in the futuer.
+
+
+<img src="https://raw.githubusercontent.com/hughsLab/my-github-page/main/assets/film/ship_fun.gif" alt="Ship Fun GIF" width="300" height="300" />
+
+
+
 <html>
 <head>
     <title>My GitHub Pages</title>
