@@ -57,10 +57,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <img src="https://github.com/user-attachments/assets/9093c39c-3aeb-4760-bead-17b0a86b5c7f" width="250">
 
 1. All items have been procured.
-2. A repository has been solected based on hardware requiments and amended for sensor.
-3. Sensor has been designed and orded from JLPCB!
-4. Test network and upload images!
-5. Creat remote network capability.
+2. A frame work for internetworking has been selected (Flask)
+3. High level schematics have been developed for arm control. This is build may require a servo driver board.
+4. Testing of arm control drivers is the next phase. This will be by far the most time consuming process, as i will be     looking into revers kinematics for robotic eye to hand coordination.
+5. Create YOLO trained model for chess peices.
 <html>
 <head>
     <title>My GitHub Pages</title>
