@@ -14,16 +14,20 @@ My current method is to break the data down into many trained models and somehow
 Below are training results based on the models provided.
 
 Choosing the correct model was one of the most dificult and extremly time consuming tasks for this application. Below are the results of a Keras model i uesd to traine the entire data set which would often take the night!
-It is obvious the keras model here is performing poorly. Through a training routine of 60 epochs the model is attaining 1.4% accuracy.
+It is obvious the keras model here is performing poorly. Through a training routine of 60 epochs the model is attaining 1.4% accuracy. This includes a Dropout layer to reduce overfitting and Data augmentation. Overfitting generally occurs when there are a small number of training examples, which is what we have here.
 
 ![image](https://github.com/user-attachments/assets/c2d0bd63-2e3e-4d6c-bdfc-89836a2e8e77)
 
-Training validation of 10 parent chunks with 1K classes in each chunk for 60 epochs.
-This includes a Dropout layer to reduce overfitting and Data augmentation. Overfitting generally occurs when there are a small number of training examples, which is what we have here!!
+
+Each 10% chunck is varible, meaning not all data has as many classes or has data that is great for training.
+To remedy this i ran a script that made all 10 of the 10% classes similar quality to avoid halucinations or inaccuracy.
+I called the method _class equity_ in a attempt to get similar results from all classes in all 10% chunks.
 
 Yolo model identifying genus and species correctly.
 The two images side by side below are 10% of the total data being trained for 50 epochs. 
 Taking two species as a selection the accuracy is around certain or (100%)!
+
+
 ![alt text](results.png) ![alt text](P_curve.png)
 
 
