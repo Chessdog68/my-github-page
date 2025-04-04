@@ -56,7 +56,7 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 <body>
     <!-- GitHub link button -->
     <a href="https://github.com/hughsLab/plant-classification" class="btn btn-github">
-        <span class="icon"></span>Visit My GitHub Repository
+        <span class="icon"></span>Android native GitHub
     </a>
 </body>
 </html>
@@ -105,7 +105,7 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 <body>
     <!-- GitHub link button -->
     <a href="https://github.com/hughsLab/Matilda---Robotic-Chess-accross-the-internet-" class="btn btn-github">
-        <span class="icon"></span>Visit My GitHub Repository
+        <span class="icon"></span>Matilda Chess GitHub
     </a>
 </body>
 </html>
@@ -151,7 +151,7 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 <body>
     <!-- GitHub link button -->
     <a href="https://github.com/hughsLab/All-Sky-pi5-with-SHT31-Sensor" class="btn btn-github">
-        <span class="icon"></span>Visit My GitHub Repository
+        <span class="icon"></span>All Sky Pi GitHub
     </a>
 </body>
 </html>
@@ -194,7 +194,7 @@ I hope to combine this project with the Allsky camera in the futuer.
 <body>
     <!-- GitHub link button -->
     <a href="https://github.com/hughsLab/Denman-Voyage-YOLO-Detection" class="btn btn-github">
-        <span class="icon"></span>Visit My GitHub Repository
+        <span class="icon"></span>Denman Object detection GitHub
     </a>
 </body>
 </html>
@@ -238,7 +238,7 @@ Please find the repository below or check out the project page above.
 <body>
     <!-- GitHub link button -->
     <a href="https://github.com/hughsLab/Linux-GUI-Driver-and-Server-Socket" class="btn btn-github">
-        <span class="icon"></span>Visit My GitHub Repository
+        <span class="icon"></span>Smart Charging system GitHub
     </a>
 </body>
 </html>
