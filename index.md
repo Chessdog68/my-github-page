@@ -14,8 +14,13 @@ _Personal project directory and news_.
 
 4. [Smart Charging system - An automated submarine battery charging system](./Smart_Charger.html)
 
-Click on the any of the above project directory to provide feedback, explore, learn and use for your self!
 
+This website acts as a landing page for my readme's. 
+I update this space as milestoines are reached, acting as a blog.
+
+The above links are to the projects i currently have on the go or finished recently. 
+The below are brief updates of each project. 
+ 
 Please get contact me for project specific questions -> hughmathys6@gmail.com
 
 # Progress - Android native - Genus and species Application
