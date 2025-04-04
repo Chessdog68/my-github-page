@@ -21,13 +21,12 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 # Progress - Android native - Genus and species Application
 <img src="https://github.com/user-attachments/assets/b0cd27e6-b08c-46fa-884b-1eb9949c0c90" width="250" />
 
-1. Raw Data repo has been selected form the Universtiy of Glasgo (open source).
-2. Data filtering has been completed removing all unwanted formatting and picture types.
-3. A model has been selected for training the data in 10% chuncks. I am currently using YOLO.
-4. A model Tensor Flow Lite application was selected which is current with my enviroment in Android Studio. 
-After some testing this model application is now running only one of my YOLO Tensor Flow models trained on plant data.
-5. Work out a way were the application can of 10x10% YOLO .TFL models working and syncing with each other?
-6. Whatch the APP store and stay tuned...
+1. Raw data repository has been selected from the University of Glasgow (open source).
+2. Data filtering has been completed, removing all unwanted formatting and picture types.
+3. A model has been selected for training the data in 10% chunks. I am currently using YOLO.
+4. A TensorFlow Lite application model was selected, which is compatible with my environment in Android Studio. After some testing, this model application is now running one of my YOLO TensorFlow models trained on plant data.
+5. Work out a way where the application can have 10x10% YOLO .TFL models working and syncing with each other.
+6. Watch the App Store and stay tuned...
 
 <html>
 <head>
