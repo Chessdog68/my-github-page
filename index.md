@@ -64,11 +64,11 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 <img src="https://github.com/user-attachments/assets/9093c39c-3aeb-4760-bead-17b0a86b5c7f" width="250">
 
 1. All items have been procured.
-2. A frame work for internetworking has been selected (Flask)
-3. High level schematics have been developed for arm control. This is build may require a servo driver board.
-4. Testing of arm control drivers is the next phase. This will be by far the most time consuming process, as i will be     looking into revers kinematics for robotic eye to hand coordination.
-5. Create YOLO trained model for chess peices.
-6. Whach this space...
+2. A framework for internetworking has been selected (Flask).
+3. High-level schematics have been developed for arm control. This build may require a servo driver board.
+4. Testing of arm control drivers is the next phase. This will be by far the most time-consuming process, as I will be looking into reverse kinematics for robotic eye-to-hand coordination.
+5. Create a YOLO-trained model for chess pieces.
+6. Watch this space...
 
 <html>
 <head>
