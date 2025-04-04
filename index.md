@@ -31,7 +31,7 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 
 <html>
 <head>
-    <title>My GitHub Pages</title>
+    <title>Android native GitHub</title>
     <style>
         .btn-github {
             padding: 10px 20px;
@@ -80,7 +80,7 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 
 <html>
 <head>
-    <title>My GitHub Pages</title>
+    <title>Matilda Chess GitHub</title>
     <style>
         .btn-github {
             padding: 10px 20px;
@@ -126,7 +126,7 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 
 <html>
 <head>
-    <title>My GitHub Pages</title>
+    <title>All Sky Pi GitHub</title>
     <style>
         .btn-github {
             padding: 10px 20px;
@@ -169,7 +169,7 @@ I hope to combine this project with the Allsky camera in the futuer.
 
 <html>
 <head>
-    <title>My GitHub Pages</title>
+    <title>Denman Object detection GitHub</title>
     <style>
         .btn-github {
             padding: 10px 20px;
@@ -211,10 +211,9 @@ Please find the repository below or check out the project page above.
 <img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/smartcharger_discharger.png" alt="Smart Charger Discharger" width="350" />
 
 
-<!DOCTYPE html>
 <html>
 <head>
-    <title>My GitHub Pages</title>
+    <title>Smart Charging system GitHub</title>
     <style>
         .btn-github {
             padding: 10px 20px;
