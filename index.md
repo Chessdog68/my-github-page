@@ -15,11 +15,10 @@ _Personal project directory and news_.
 4. [Smart Charging system - An automated submarine battery charging system](./Smart_Charger.html)
 
 
-This website acts as a landing page for my projects readme's. 
-I update this space as milestoines are reached, acting as a blog.
+This website serves as a landing page for my projects' README files. 
+I update this space as milestones are reached, acting as a blog.
 
-The above links are to the projects I currently have on the go or finished recently. 
-The below are brief updates of each project. 
+The above links lead to projects I currently have in progress or have recently completed. Below are brief updates on each project.
 
 Please get contact me for project specific questions -> hughmathys6@gmail.com
 
