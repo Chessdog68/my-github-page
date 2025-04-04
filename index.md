@@ -18,7 +18,7 @@ _Personal project directory and news_.
 This website acts as a landing page for my projects readme's. 
 I update this space as milestoines are reached, acting as a blog.
 
-The above links are to the projects i currently have on the go or finished recently. 
+The above links are to the projects I currently have on the go or finished recently. 
 The below are brief updates of each project. 
 
 Please get contact me for project specific questions -> hughmathys6@gmail.com
