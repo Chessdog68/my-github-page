@@ -8,7 +8,7 @@ _Personal project directory and news_.
 
 2. [Matilda Chess - Playing chess across the internet with a robotic arm](./Matilda_Chess.html)
 
-3. [All Sky Pi - An all sky cam with PI5, object detection with temp/humidity pcb](./All_Sky_Pi5.html)
+3. [All Sky Pi - An all sky cam with PI5, with temp/humidity pcb](./All_Sky_Pi5.html)
 
 4. [YOLO & OpenCV Object Detection - During the Denman Voyage (RSV Nuyina)](./YOLO_tracking.html)
 
@@ -19,7 +19,6 @@ Click on the any of the above project directory to provide feedback, explore, le
 Please get contact me for project specific questions -> hughmathys6@gmail.com
 
 # Progress - Android native - Genus and species Application
-<img src="https://github.com/user-attachments/assets/b0cd27e6-b08c-46fa-884b-1eb9949c0c90" width="250" />
 
 1. Raw data repository has been selected from the University of Glasgow (open source).
 2. Data filtering has been completed, removing all unwanted formatting and picture types.
@@ -27,6 +26,8 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 4. A TensorFlow Lite application model was selected, which is compatible with my environment in Android Studio. After some testing, this model application is now running one of my YOLO TensorFlow models trained on plant data.
 5. Work out a way where the application can have 10x10% YOLO .TFL models working and syncing with each other.
 6. Watch the App Store and stay tuned...
+
+<img src="https://github.com/user-attachments/assets/b0cd27e6-b08c-46fa-884b-1eb9949c0c90" width="250" />
 
 <html>
 <head>
@@ -60,8 +61,11 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 </body>
 </html>
 
+
+
+
 # Progress - Matilda Chess - Playing chess across the internet with a robotic arm
-<img src="https://github.com/user-attachments/assets/9093c39c-3aeb-4760-bead-17b0a86b5c7f" width="250">
+
 
 1. All items have been procured.
 2. A framework for internetworking has been selected (Flask).
@@ -69,6 +73,10 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 4. Testing of arm control drivers is the next phase. This will be by far the most time-consuming process, as I will be looking into reverse kinematics for robotic eye-to-hand coordination.
 5. Create a YOLO-trained model for chess pieces.
 6. Watch this space...
+
+
+<img src="https://github.com/user-attachments/assets/9093c39c-3aeb-4760-bead-17b0a86b5c7f" width="250">
+
 
 <html>
 <head>
@@ -101,7 +109,11 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
     </a>
 </body>
 </html>
-# Progress - All Sky Pi - An all sky cam with PI5, object detection with temp/humidity pcb
+
+
+
+
+# Progress - All Sky Pi - An all sky cam with PI5, with temp/humidity pcb
 
 1. All items have been procured.
 2. A repository has been solected based on hardware requiments and amended for sensor.
@@ -193,7 +205,12 @@ I hope to combine this project with the Allsky camera in the futuer.
 
 # Progress - Smart Charging system
 This Project is complete. 
-Please find the repository 
+Please find the repository below or check out the project page above.
+
+
+<img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/smartcharger_discharger.png" alt="Smart Charger Discharger" width="350" />
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -227,7 +244,6 @@ Please find the repository
 </body>
 </html>
 
-<img src="https://raw.githubusercontent.com/Chessdog68/my-github-page/main/assets/images/smartcharger_discharger.png" alt="Smart Charger Discharger" width="350" />
 
 
 
