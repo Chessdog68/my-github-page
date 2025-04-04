@@ -29,9 +29,16 @@ The diagram below, could be a great starting framework for application!
 
 The basic highlevel schematic below will be a starting point for prototyping. This project, elctro-mechanically.
 At some stage i may need to introduce a servo driver with multi-channel capability, if threading causes delays.
+
+The Pi 5 was selected over the Pi 4 based on the new ARM Cortex-A76 CPU, allowing significant improvements in single and multi-threaded workloads. Each servo will be required to run on different threads to meet the requirements of multi-axis movement at once.
+The Pi camera will run separately, hosting YOLO.
+
 ![alt text](image.png)
 
-The capture below is the complete and updated robotic arm. This repository came from here: [text](https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/)
+The servos are SG90 MICRO x3 and MG996R x3. These servos are divided into two groups: larger movements or macro (MG996R) and finer movements or micro (SG90 MICRO). The macro movements consist of the waist, shoulder, and elbow, while the micro movements include wrist roll, wrist pitch, and the gripper. Collectively, this gives the arm five degrees of freedom.
+
+The capture below is the complete and updated robotic arm. 
+This repository came from here: [text](https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/)
 
 ![Capture](https://github.com/user-attachments/assets/e8dce431-166a-4af0-a0d3-019e8ef835c1)
 
