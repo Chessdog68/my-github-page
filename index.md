@@ -21,8 +21,6 @@ Please get contact me for project specific questions -> hughmathys6@gmail.com
 # Progress - Android native - Genus and species Application
 <img src="https://github.com/user-attachments/assets/b0cd27e6-b08c-46fa-884b-1eb9949c0c90" width="250" />
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-<!DOCTYPE html>
 <html>
 <head>
     <title>My GitHub Pages</title>
@@ -59,7 +57,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <img src="https://github.com/user-attachments/assets/9093c39c-3aeb-4760-bead-17b0a86b5c7f" width="250">
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-<!DOCTYPE html>
 <html>
 <head>
     <title>My GitHub Pages</title>
@@ -98,9 +95,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 3. Sensor has been designed and orded from JLPCB!
 4. Test network and upload images!
 5. Creat remote network capability.
+
+
 <img src="./assets/images/night_sky.png" alt="Night Sky" width="250" />
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>My GitHub Pages</title>
