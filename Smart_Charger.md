@@ -4,7 +4,12 @@ layout: default
 
 ## Smart Charging system
 
-Files in this repository are for the software to monitor and display the interrogation of a battery's BMS. The driver file (mod_ID1) interrogates the battery's BMS, then passes the data to the GUI for user control and to the network. The server socket file receives TCP packets enveloped as the MODbus word from the battery's BMS. The server socket is hosted on a VM on a private network. The socket server then converts from TCP to UDP, which can be easily accepted by OpenRVDAS.
+This project is a battery charger and monitoring system that interfaces with the battery's Battery Management System (BMS). The driver file (mod_ID1) interrogates the BMS, retrieves data, and forwards it to both the graphical user interface (GUI) for user control and to a deadicated private network. 
+
+A server socket file receives data words as TCP packets from the BMS, formatted using the MODBUS protocol. This server socket runs on a virtual machine (VM) within a private network. It converts the incoming TCP data to UDP format, making it compatible with OpenRVDAS for streamlined data handling.
+
+
+
 ![image](https://github.com/user-attachments/assets/d2a73756-a9f7-4999-a208-463f40c24fb7)
 _Linux-GUI-Driver-and-Server-Socket - Completed_
 

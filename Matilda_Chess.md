@@ -25,8 +25,7 @@ Code and STL files, staye tuned...
 A modern frame work that may work well for data and internetworking is Flask. 
 Flask will handle web requests, allowing a remote user to interact with the chess game interface over the internet. Using Flask-SocketIO, I can implement WebSockets for real-time communication, ensuring instant moves between the player and the robot. Flask will interface with the robot arm's control API to execute moves physically. The architecture will involve Flask serving the web interface and receiving move commands, which are then sent via WebSockets to the robot controller. The robot's state and moves can be streamed back to the user, ensuring synchronized play.
 The diagram below, could be a great starting framework for application!
-
-![alt text](image-3.png)
+![alt text](image-1.png)
 
 The basic highlevel schematic below will be a starting point for prototyping. This project, elctro-mechanically.
 At some stage i may need to introduce a servo driver with multi-channel capability, if threading causes delays.
@@ -34,7 +33,7 @@ At some stage i may need to introduce a servo driver with multi-channel capabili
 The Pi 5 was selected over the Pi 4 based on the new ARM Cortex-A76 CPU, allowing significant improvements in single and multi-threaded workloads. Each servo will be required to run on different threads to meet the requirements of multi-axis movement at once.
 The Pi camera will run separately, hosting YOLO.
 
-![alt text](image-2.png)
+![alt text](image.png)
 
 The servos are SG90 MICRO x3 and MG996R x3. These servos are divided into two groups: larger movements or macro (MG996R) and finer movements or micro (SG90 MICRO). The macro movements consist of the waist, shoulder, and elbow, while the micro movements include wrist roll, wrist pitch, and the gripper. Collectively, this gives the arm five degrees of freedom.
 
