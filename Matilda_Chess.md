@@ -21,11 +21,25 @@ Code and STL files, staye tuned...
 3. Established a 'here and there' netword using my home PC and a VM. This is to establish a internetworking connection.
 4. Print the 3D printed arm and test the proto type.
 
-# Prototyping
+# Prototyping - software
 A modern frame work that may work well for data and internetworking is Flask. 
-Flask will handle web requests, allowing a remote user to interact with the chess game interface over the internet. Using Flask-SocketIO, I can implement WebSockets for real-time communication, ensuring instant moves between the player and the robot. Flask will interface with the robot arm's control API to execute moves physically. The architecture will involve Flask serving the web interface and receiving move commands, which are then sent via WebSockets to the robot controller. The robot's state and moves can be streamed back to the user, ensuring synchronized play.
+Flask will handle web requests, allowing a remote user to interact with the chess game and interface over the internet. Using Flask-SocketIO, I can implement WebSockets for real-time communication, ensuring instant moves between the player and the robot. Flask will interface with the robot arm control API to execute moves physically. The architecture will involve Flask serving the web interface and receiving move commands, which are then sent via WebSockets to the robot controller. The robot's state and moves can be streamed back to the user, ensuring synchronized play.
 The diagram below, could be a great starting framework for application!
+
+
+
 ![alt text](image-1.png)
+
+
+As astarting point with Flast on the front end in index.html i have interactive chess game using chessboard-1.0.0.min.js and classic Wikipedia-style pieces from chessboardjs.com. Moves are validated with chess.js, and legal user moves are sent to a backend for AI response. The board updates dynamically, creating a seamless human vs AI chess experience.
+
+for app.py Flask backend powers the AI opponent using python-chess and Stockfish. User moves are validated server-side before being applied to the board. The engine responds with its best move using a low time limit and skill level for fast interaction. Communication happens via JSON through the /move endpoint, enabling real-time gameplay with legal move enforcement.
+
+once run the project looks similar to this
+![alt text](image-2.png)
+
+
+
 
 The basic highlevel schematic below will be a starting point for prototyping. This project, elctro-mechanically.
 At some stage i may need to introduce a servo driver with multi-channel capability, if threading causes delays.
