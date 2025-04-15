@@ -31,11 +31,11 @@ The diagram below, could be a great starting framework for application!
 ![alt text](image-1.png)
 
 
-As astarting point with Flast on the front end in index.html i have interactive chess game using chessboard-1.0.0.min.js and classic Wikipedia-style pieces from chessboardjs.com. Moves are validated with chess.js, and legal user moves are sent to a backend for AI response. The board updates dynamically, creating a seamless human vs AI chess experience.
+As astarting point with Flast on the front end in index.html i have usesed Chessboard.js v1.0.0 to render an interactive chessboard with draggable pieces styled via the default Wikipedia-themed set. It’s paired with chess.js for move validation and game logic. Valid player moves trigger a /move POST request to fetch and display the AI’s response move dynamically, updating the board in real time.
 
 for app.py Flask backend powers the AI opponent using python-chess and Stockfish. User moves are validated server-side before being applied to the board. The engine responds with its best move using a low time limit and skill level for fast interaction. Communication happens via JSON through the /move endpoint, enabling real-time gameplay with legal move enforcement.
 
-once run the project looks similar to this
+Once run the project looks similar to this
 ![alt text](image-2.png)
 
 
