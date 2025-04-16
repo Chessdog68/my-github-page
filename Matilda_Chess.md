@@ -35,8 +35,23 @@ As astarting point with Flast on the front end in index.html i have usesed Chess
 
 for app.py Flask backend powers the AI opponent using python-chess and Stockfish. User moves are validated server-side before being applied to the board. The engine responds with its best move using a low time limit and skill level for fast interaction. Communication happens via JSON through the /move endpoint, enabling real-time gameplay with legal move enforcement.
 
-Once run the project looks like this
+Once run on http://127.0.0.1:5000 the project looks like the below image. It has been fun playing and testing the engine!
+
+The below code snippet is my current setup for the engine, given the requiments for the pi5 i will utilize as a server.
+```js
+
+#Stock fish core usage, of device it is running on (Pi-server).
+# Hash table in megabytes used for in-memory caching of frequently accessed moves (data).
+#Skill level is from 0 to 20, 0 is still hard (for me) the rough chess ELO is around 1350?
+below, engine.configure({"Threads": 1, "Hash": 512, "Skill Level": 0})
+```
+
+
 <img src="image-2.png" alt="alt text" width="900">
+
+
+
+
 
 
 
