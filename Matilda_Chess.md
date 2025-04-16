@@ -36,7 +36,23 @@ As astarting point with Flast on the front end in index.html i have usesed Chess
 for app.py Flask backend powers the AI opponent using python-chess and Stockfish. User moves are validated server-side before being applied to the board. The engine responds with its best move using a low time limit and skill level for fast interaction. Communication happens via JSON through the /move endpoint, enabling real-time gameplay with legal move enforcement.
 
 Once run the project looks like this
-<img src="image-2.png" alt="alt text" width="600">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Center Image</title>
+  <style>
+    .container {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="image-2.png" alt="alt text" width="600">
+  </div>
+</body>
+</html>
 
 
 
