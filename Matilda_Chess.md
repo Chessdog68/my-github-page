@@ -18,8 +18,10 @@ Code and STL files, staye tuned...
 # progression list to date.
 1. All items have been procured.
 2. The robotic arm has been selected and alterd from the original repository. 
-3. Established a 'here and there' netword using my home PC and a VM. This is to establish a internetworking connection.
-4. Print the 3D printed arm and test the proto type.
+3. Established a 'here and there' netword using AWS cloud VM hosting Flask, accepting moves and replying using Stock Fish engine.
+4. Print the 3D printed arm and test the prototype.
+5. Depth Camera D415 - Intel RealSense has been procured. I have started some research into robotic axis and FoV camera calibration methods for this apparatus.
+
 
 # Prototyping - software
 A modern frame work that may work well for data and internetworking is Flask. 
